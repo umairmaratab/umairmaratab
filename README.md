@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Umair</h1>
-<h3 align="center">Passionate about the world of computing, specifically Blockchain, AI, and System Administration.</h3>
+<h3 align="center">Passionate about the world of computing, specifically Blockchain, AI and System Administration.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umairmaratab&label=Profile%20views&color=0e75b6&style=flat" alt="umairmaratab" /> </p>
 
