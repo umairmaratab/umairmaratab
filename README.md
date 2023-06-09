@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **AI and Blockchain.**
 
+- 👁 Always figuring out how to exit **Vim.** 
+
 - 👯 I’m looking to collaborate on **System Administration and AI**
 
 - 📝 I regularly write articles on [https://umairmaratab.hashnode.dev/](https://umairmaratab.hashnode.dev/)
