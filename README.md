@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **System Administration.**
 
-- 📫 How to reach me **umair.maratab@acm.org**
+- 📫 How to reach me **umair.maratab@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
