@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Umair</h1>
-<h3 align="center">Passionate about the world of computing, specifically Blockchain, AI and System Administration.</h3>
+<h3 align="center">Passionate about the world of computing, specifically Backend Development, AI and Blockchain.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umairmaratab&label=Profile%20views&color=0e75b6&style=flat" alt="umairmaratab" /> </p>
 
-- 🌱 I’m currently learning **AI and Blockchain.**
+- 🌱 I’m currently learning **Python Development and AI.**
 
 - 👁 Always figuring out how to exit **Vim.** 
 
-- 👯 I’m looking to collaborate on **System Administration and AI**
+- 👯 I’m looking to collaborate on **Python Development and AI**
 
 - 📝 I regularly write articles on [https://umairmaratab.hashnode.dev/](https://umairmaratab.hashnode.dev/)
-
-- 💬 Ask me about **System Administration.**
 
 - 📫 How to reach me **umair.maratab@gmail.com**
 
